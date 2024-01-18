@@ -1,0 +1,5 @@
+displayName: Convert XFF
+summary: Modifies the X-Forwarded-For header by removing the brackets from IPv6 addresses and rewriting ipv4-mapped ipv6 to real ipv4 
+type: middleware
+import: github.com/42wim/convertxff
+testData:

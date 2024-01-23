@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/42wim/convertxff"
+	convertxff "github.com/42wim/traefik-convertxff"
 )
 
 func TestConvertXFF_ServeHTTP(t *testing.T) {

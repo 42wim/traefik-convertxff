@@ -1,4 +1,4 @@
-package convertxff_test
+package traefik_convertxff_test
 
 import (
 	"context"
